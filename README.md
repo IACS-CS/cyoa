@@ -1,115 +1,56 @@
-# Simple Web Design Project
+# Choose Your Own Adventure Website
 
-Welcome to our simple web design sandbox! This project is designed to help you get started with HTML, CSS, and JavaScript in an easy-to-understand environment.
+For an overview of how to use GitHub Codespaces, see my
+[Sandbox Overview](SandboxOverview.md)
 
-Instructions for understanding GitHub CodeSpaces are below.
+## Task
+Build a choose-your-own-adventure website.
 
-In this document, you will find:
+## Required Components
 
-- [How to "run" your page](#running-the-project)
-- [How to see your page side-by-side](#viewing-your-project)
-- [Editing your files](#editing-your-project)
-- [Setting up Codespaces Extensions](#adding-extensions)
-- [Saving your work to version control](#saving-your-work-to-version-control)
-- [Adding Images](#adding-images)
+### Elements:
+- 8 separate webpages, starting at `index.html`
+- Correct use of paragraph tags (`<p>`)
+- Correct use of inline formatting tags (`<i>`, `<em>`, `<b>`, `<strong>`)
+- Organized file structure
+- At least 1 image (`<img>` tag)
+- Chapter headings (`<h1>`)
+- At least one properly formatted list (`<ul>` or `<ol>`)
 
-## Running the Project
+### Design:
+- Your site should be:
+  - Coherent and entertaining
+  - Easy to navigate
+  - Logically organized
+- Your code and file structure should be:
+  - Correctly structured
+  - Commented wherever you’ve borrowed code or ideas
 
-1. Open the project in VS Code.
-2. Click on the "Run and Debug" button on the sidebar (it looks like a play button).
-3. Select "Open with Live Server" from the drop-down menu.
-4. Click the green play button. This will start a local server and open your project in a web browser.
-5. If this fails, you could try to [start from the terminal instead](#starting-from-the-terminal)
-   ![play-screenshot](screenshots/play-github.png)
+### Honors Components (in addition to main components):
+- At least one table (`<table>`)
+- Customize the style of the page by modifying the included stylesheet
+- Include links for moving backward as well as forward throughout the story
 
-## Viewing Your Project
+## Resources
+- [Validity Checker](https://validator.w3.org/nu/) _(ignore character encoding warnings)_
+- [Hinkle’s HTML Basics textbook](https://trinket.io/thinkle_innovationcharter_org/courses/intro-to-html#/html-basics/tags)
+- [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
+- [Getting Started YouTube Walkthrough](https://youtu.be/pk8jXAyQS-8)
 
-![Screenshot of Ports view](./screenshots/ports-github.png)
+## Why Choose Your Own Adventure?
 
-- You should see a pop up asking if you want to open the page after you hit "play" to run your project. If you click on it, it will open your webpage in a new tab.
-- You can click on "Ports" at the bottom of the screen to see the web connection on your computer.
+Choose-your-own-adventure books were one of the first forms of hypertext: a kind of text that you read by navigating a series of links rather than reading from start to finish.
 
-  If you hover over the "Forwarded Address" column, you'll see a "side-by-side" icon that will show
-  the webpage inside your coding editor, or a "Globe" icon that will show the icon inside your web
-  browser in a new tab.
+For this assignment, you will build a “Choose Your Own Adventure” website as a throwback to the early days of hypertext. Your story will be written in the second-person perspective. Where print books would have had text like, “To walk into the cave, go to page 38,” your website will use links to direct the reader through the story.
 
-## Editing Your Project
+For plot, you can do whatever you find entertaining. Some of it may be a bit contrived in order to include all the required components (lists, images, etc.), but as a rule, the more fun you have with these things, the better they turn out.
 
-- Choose the "File Explorer" tab to see your files,
-  and then look for your webpage code under the "public" folder.
-  ![img](./screenshots/github-file-editor.png)
+## A Note on AI
+**Important:** While Generative AI tools such as ChatGPT or Claude.ai can be useful for tasks like this, their results often lack creativity and feel lifeless. **DO NOT** use AI to generate entire webpages for this assignment — this is considered cheating.
 
-- **index.html**: This is your HTML file. Edit it to change the structure of your web page.
-- **style.css**: This is your CSS file. Modify it to change the styling of your web page.
+However, you **may** use AI to assist with individual elements, but you must credit it wherever applicable. For example, if you asked AI to generate a long menu for a restaurant, you would need to include a comment in your code to credit the AI.
 
-### Files You Can Ignore
-
-You don't need to worry about the following files and folders. They are used to set up and run your project environment:
-
-- `package.json` and `package-lock.json`: Configuration files for Node.js.
-- `node_modules`: A folder containing all the packages and dependencies for the project.
-- `.vscode`: Contains configuration files for Visual Studio Code.
-
-## Adding Extensions
-
-You should be prompted to install extensions when this Codespace loads -- say yes and you'll
-get automatic code formatting set up as well as github copilot (an AI tool to try to help you code). (To get CoPilot you'll need to have verified your student account with github)
-
-## Saving Your Work to Version Control
-
-Your "Codespace" is temporary (GitHub will keep it around for only a few weeks if you aren't using it actively), so you need to always save your work to version control after you are done.
-
-GitHub version control can store all of your work as well as every change you've "committed", which means you can go back in time and see what changes
-you made.
-
-When you make changes to files, you will see the number of uncommitted changes you've made show up on the version control icon on the sidebar.
-
-1. Click on the version control icon to see what changes you've made. Then click "+" to "stage"
-   the change (you could also undo your changes here
-   if you wanted to go back to the last committed
-   version in the future)
-   ![img](./screenshots/vc-1.png)
-
-2. Type a "change log" message describing what you changed in your code and then click "Commit" to save your changes to your local version control.
-   ![img](./screenshots/vc-2.png)
-
-3. Click "Sync Changes" to push your changes from the local GitHub Codespace to your permanent GitHub repository. You'll have to click a confirmation popup as well.
-   ![img](./screenshots/vc-3.png)
-   ![img](./screenshots/vc-4.png)
-
-## Adding Images
-
-### Naming Images
-
-I recommend giving images simple filenames with no spaces or special characters.
-You can rename images in GitHub by selecting the file and pressing "Enter" or choosing
-"Rename" from the right-click menu.
-
-### Image Rights
-
-Before you upload images to your project, you should make sure you have the right to
-use them, either because you created them yourself, or because you found an image in
-the public domain or with a creative commons license that allows re-use. Wikipedia
-or the Wikimedia commons can be good sources of reusable images. 
-
-### Adding Images to GitHub CodeSpaces
-
-You can add images or other files to your project in GitHub Codespaces either
-by dragging and dropping them onto the File Explorer or by using the right-click
-menu and selecting upload.
-
-If you put files in the wrong place, you can drag-and-drop to move them.
-
-Images you want to include in your project should be in the "public" folder. 
-I recommend organizing them inside of a separate "images" folder for easy
-file management.
-
-
-## Starting from the Terminal
-
-As an alternative to using the "Play" button, you can also
-type a command to run your project locally.
-
-1. Open the terminal in VS Code (use the "Terminal" tab at the bottom)
-2. Type `npm start` and press Enter. This will start a local server and open your project in a web browser.
-   ![Terminal Screenshot](./screenshots/terminal-github.png)
+### Example:
+If you use an AI prompt like _"Write a menu for a Thai restaurant with 67 options, formatted as an HTML list,"_ include a comment like:
+```html
+<!-- AI-generated content: menu list created using ChatGPT -->
