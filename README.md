@@ -3,6 +3,8 @@
 For an overview of how to use GitHub Codespaces, see my
 [Sandbox Overview](SandboxOverview.md)
 
+For a walkthrough of starting this project, 
+[watch this video](https://youtu.be/_YPh2hvlTXI)
 ## Task
 
 Build a choose-your-own-adventure website.
@@ -62,10 +64,11 @@ If you use an AI prompt like _"Write a menu for a Thai restaurant with 67 option
 
 ## Resources
 
+- [Getting Started YouTube Walkthrough](https://youtu.be/_YPh2hvlTXI)
 - [Validity Checker](https://validator.w3.org/nu/) _(ignore character encoding warnings)
 - [Hinkle’s HTML Basics textbook](https://trinket.io/thinkle_innovationcharter_org/courses/intro-to-html#/html-basics/tags)
 - [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
-- [Getting Started YouTube Walkthrough](https://youtu.be/pk8jXAyQS-8)
+
 
 ### Honors Resources
 
