@@ -110,10 +110,12 @@ Starred items (*) are for honors students.
     <th>4 - Excellent</th>
   </tr>
   <tr>
-    <th>Story</th>
+    <th>Content</th>
     <td><!-- story | 1 --></td>
     <td><!-- story | 2 --></td>
-    <td><ul><li>The story is coherent and engaging.</li></ul></td>
+    <td><ul><li>The story is coherent and engaging.</li>
+      <li>Story includes an image and a list.</li>
+    </ul></td>
     <td><ul>
           <li>The story is compelling and creatively uses web elements.</li>
           <li>Includes multimedia elements that enhance narrative.*</li>
@@ -125,8 +127,10 @@ Starred items (*) are for honors students.
     <td><!-- navigation | 2 --></td>
     <td><ul><li>Navigation is logical and straightforward.</li></ul></td>
     <td><ul>
-          <li>Navigation is intuitive and enhances the user experience.</li>
-          <li>Advanced interaction techniques improve usability and engagement.*</li>
+          <li>Navigation is intuitive and flows smoothly
+          throughout the adventure.</li>
+          <li>Uses "hover" effects to create clear affordances for user
+          actions and improve engagement.*</li>
         </ul></td>
   </tr>
   <tr>
@@ -136,12 +140,11 @@ Starred items (*) are for honors students.
     <td><ul><li>The site passes validation with minor issues.</li></ul></td>
     <td><ul>
           <li>The site is fully compliant and passes all checks.</li>
-          <li>*Uses advanced HTML/CSS standards, with zero errors.*</li>
         </ul></td>
   </tr>
   <tr>
     <th>Published URL</th>
-    <td><!-- url | 1 -->The URL does not work.</td>
+    <td><!-- url | 1 -->Site not published / URL doesn't work</td>
     <td><!-- url | 2 --></td>
     <td><ul><li>The site is accessible without issues.</li></ul></td>
     <td><ul>
