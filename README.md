@@ -62,7 +62,7 @@ If you use an AI prompt like _"Write a menu for a Thai restaurant with 67 option
 
 ## Resources
 
-- [Validity Checker](https://validator.w3.org/nu/) _(ignore character encoding warnings)_
+- [Validity Checker](https://validator.w3.org/nu/) _(ignore character encoding warnings)
 - [Hinkle’s HTML Basics textbook](https://trinket.io/thinkle_innovationcharter_org/courses/intro-to-html#/html-basics/tags)
 - [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
 - [Getting Started YouTube Walkthrough](https://youtu.be/pk8jXAyQS-8)
@@ -87,3 +87,121 @@ If you use an AI prompt like _"Write a menu for a Thai restaurant with 67 option
 
 4. **Adding Social Sharing Meta Tags**:
    - [What is Open Graph & How can I use it](https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website/)
+
+# Choose Your Own Adventure Website Rubric
+
+Grading will happen in two phases:
+1. You will get an "experimentation" grade based on the quality of your published website.
+
+2. You will get a "modeling" grade based on your in-class write-up explaining your code and design decisions.
+
+## Published Website Rubric
+
+# Website Evaluation Rubric
+
+Starred items (*) are for honors students.
+
+<table border="1">
+  <tr>
+    <th>Criteria</th>
+    <th>1 - Beginning</th>
+    <th>2 - Developing</th>
+    <th>3 - Proficient</th>
+    <th>4 - Excellent</th>
+  </tr>
+  <tr>
+    <th>Story</th>
+    <td><!-- story | 1 --></td>
+    <td><!-- story | 2 --></td>
+    <td><ul><li>The story is coherent and engaging.</li></ul></td>
+    <td><ul>
+          <li>The story is compelling and creatively uses web elements.</li>
+          <li>Includes multimedia elements that enhance narrative.*</li>
+        </ul></td>
+  </tr>
+  <tr>
+    <th>Navigation & Usability</th>
+    <td><!-- navigation | 1 --></td>
+    <td><!-- navigation | 2 --></td>
+    <td><ul><li>Navigation is logical and straightforward.</li></ul></td>
+    <td><ul>
+          <li>Navigation is intuitive and enhances the user experience.</li>
+          <li>Advanced interaction techniques improve usability and engagement.*</li>
+        </ul></td>
+  </tr>
+  <tr>
+    <th>Correctness</th>
+    <td><!-- correctness | 1 -->The site has multiple significant errors when checked.</td>
+    <td><!-- correctness | 2 --></td>
+    <td><ul><li>The site passes validation with minor issues.</li></ul></td>
+    <td><ul>
+          <li>The site is fully compliant and passes all checks.</li>
+          <li>*Uses advanced HTML/CSS standards, with zero errors.*</li>
+        </ul></td>
+  </tr>
+  <tr>
+    <th>Published URL</th>
+    <td><!-- url | 1 -->The URL does not work.</td>
+    <td><!-- url | 2 --></td>
+    <td><ul><li>The site is accessible without issues.</li></ul></td>
+    <td><ul>
+          <li>All resources load correctly and consistently.</li>
+          <li>Includes correctly configured social sharing meta tags
+          so that texting or sharing the link brings up a correct site
+          preview.*</li>
+        </ul></td>
+  </tr>
+</table>
+
+## In-Class Write-Up Rubric
+
+This will be an assessment based on an in-class write-up you will do with questions you will not know ahead of time.
+<table border="1">
+  <tr>
+    <th>Criteria</th>
+    <th>1 - Beginning</th>
+    <th>2 - Developing</th>
+    <th>3 - Proficient</th>
+    <th>4 - Excellent</th>
+  </tr>
+  <tr>
+    <th>Understanding Links and URLs</th>
+    <td><!-- Links | 1 --></td>
+    <td><!-- Links | 2 --></td>
+    <td><ul><li>Describes how a hyperlink functions to navigate between pages.</li></ul></td>
+    <td><ul>
+          <li>Explains how relative and absolute URLs are used in links.</li>
+          <li>Provides examples of correctly formatted links for local and external web pages.</li>
+        </ul></td>
+  </tr>
+  <tr>
+    <th>Nested Elements</th>
+    <td><!-- Nested | 1 --></td>
+    <td><!-- Nested | 2 --></td>
+    <td><ul><li>Identifies and explains the function of nested elements like lists within lists or cells within a table.</li></ul></td>
+    <td><ul>
+          <li>Demonstrates understanding of complex nesting such as tables within lists or vice versa.</li>
+          <li>Explains the accessibility considerations of using nested structures.</li>
+        </ul></td>
+  </tr>
+  <tr>
+    <th>Meta Tags for Social Sharing (Honors)</th>
+    <td><!-- Meta | 1 --></td>
+    <td><!-- Meta | 2 --></td>
+    <td><ul><li>Describes the basic function of meta tags in HTML.</li></ul></td>
+    <td><ul>
+          <li>Explains how meta tags like 'og:title' and 'og:image' enhance the appearance of shared links on social media.</li>
+          <li>Provides examples of effective meta tags for social media optimization.</li>
+        </ul></td>
+  </tr>
+  <tr>
+    <th>Design Choices (Honors)</th>
+    <td><!-- Design | 1 --></td>
+    <td><!-- Design | 2 --></td>
+    <td><ul><li>Describes general design choices made on the website.</li></ul></td>
+    <td><ul>
+          <li>Provides a detailed rationale for specific design choices including color, layout, and typography.</li>
+          <li>Discusses how these choices impact user experience and accessibility.</li>
+        </ul></td>
+  </tr>
+</table>
