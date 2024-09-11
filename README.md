@@ -3,8 +3,9 @@
 For an overview of how to use GitHub Codespaces, see my
 [Sandbox Overview](SandboxOverview.md)
 
-For a walkthrough of starting this project, 
+For a walkthrough of starting this project,
 [watch this video](https://youtu.be/_YPh2hvlTXI)
+
 ## Task
 
 Build a choose-your-own-adventure website.
@@ -65,10 +66,10 @@ If you use an AI prompt like _"Write a menu for a Thai restaurant with 67 option
 ## Resources
 
 - [Getting Started YouTube Walkthrough](https://youtu.be/_YPh2hvlTXI)
-- [Validity Checker](https://validator.w3.org/nu/) _(ignore character encoding warnings)
+- [About Links and Paths](https://docs.google.com/document/d/1T0R5oFf0Xy9kXvxdGe-hmfDj3EQ3p8Abij-wXxTKZdE/edit?tab=t.0)
+- [Validity Checker](https://validator.w3.org/nu/) \_(ignore character encoding warnings)
 - [Hinkle’s HTML Basics textbook](https://trinket.io/thinkle_innovationcharter_org/courses/intro-to-html#/html-basics/tags)
 - [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
-
 
 ### Honors Resources
 
@@ -94,6 +95,7 @@ If you use an AI prompt like _"Write a menu for a Thai restaurant with 67 option
 # Choose Your Own Adventure Website Rubric
 
 Grading will happen in two phases:
+
 1. You will get an "experimentation" grade based on the quality of your published website.
 
 2. You will get a "modeling" grade based on your in-class write-up explaining your code and design decisions.
@@ -102,7 +104,7 @@ Grading will happen in two phases:
 
 # Website Evaluation Rubric
 
-Starred items (*) are for honors students.
+Starred items (\*) are for honors students.
 
 <table border="1">
   <tr>
@@ -162,6 +164,7 @@ Starred items (*) are for honors students.
 ## In-Class Write-Up Rubric
 
 This will be an assessment based on an in-class write-up you will do with questions you will not know ahead of time.
+
 <table border="1">
   <tr>
     <th>Criteria</th>
