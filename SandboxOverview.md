@@ -35,9 +35,7 @@ In this document, you will find:
 
 ## Editing Your Project
 
-- Choose the "File Explorer" tab to see your files,
-  and then look for your webpage code under the "public" folder.
-  ![img](./screenshots/github-file-editor.png)
+- Choose the "File Explorer" tab to see your files
 
 - **index.html**: This is your HTML file. Edit it to change the structure of your web page.
 - **style.css**: This is your CSS file. Modify it to change the styling of your web page.

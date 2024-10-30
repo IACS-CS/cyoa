@@ -18,12 +18,11 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "files.exclude" : {
-    "node_modules" : true,
-    ".git" : true,
-    "*.json" : true,
-    ".gitignore" : true,
-    ".vscode" : true,
-    ".github" : true,
-    "screenshots" : true,
+    ".git": true,
+    ".github": true,
+    ".gitignore": true,
+    "*.json": true,
+    "node_modules": true,
+    "screenshots": true
   }
 }
