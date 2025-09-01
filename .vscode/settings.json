@@ -17,9 +17,10 @@
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "files.exclude" : {
+  "files.exclude": {
     ".git": true,
     ".github": true,
+    ".vscode": true,
     ".gitignore": true,
     "*.json": true,
     "node_modules": true,
