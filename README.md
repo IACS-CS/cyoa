@@ -102,7 +102,7 @@ Grading will happen in two phases:
 
 ## Published Website Rubric
 
-# Website Evaluation Rubric
+# Website Evaluation Rubric (Digital Content Creation)
 
 Starred items (\*) are for honors students.
 
@@ -161,7 +161,7 @@ Starred items (\*) are for honors students.
   </tr>
 </table>
 
-## In-Class Write-Up Rubric
+## In-Class Write-Up Rubric (Content Strand)
 
 This will be an assessment based on an in-class write-up you will do with questions you will not know ahead of time.
 
