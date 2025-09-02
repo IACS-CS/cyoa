@@ -4,7 +4,7 @@ For an overview of how to use GitHub Codespaces, see my
 [Sandbox Overview](SandboxOverview.md)
 
 For a walkthrough of starting this project,
-[watch this video](https://youtu.be/_YPh2hvlTXI)
+[watch this video](https://youtu.be/KZGUoFfyef4)
 
 ## Task
 
