@@ -6,27 +6,30 @@ Instructions for understanding GitHub CodeSpaces are below.
 
 In this document, you will find:
 
-- [How to "run" your page](#running-the-project)
-- [How to see your page side-by-side](#viewing-your-project)
-- [Editing your files](#editing-your-project)
-- [Setting up Codespaces Extensions](#adding-extensions)
-- [Saving your work to version control](#saving-your-work-to-version-control)
-- [Adding Images](#adding-images)
+- [Simple Web Design Project](#simple-web-design-project)
+  - [Running the Project](#running-the-project)
+  - [Viewing Your Project](#viewing-your-project)
+  - [Editing Your Project](#editing-your-project)
+    - [Files You Can Ignore](#files-you-can-ignore)
+  - [Adding Extensions](#adding-extensions)
+  - [Saving Your Work to Version Control](#saving-your-work-to-version-control)
+  - [Adding Images](#adding-images)
+    - [Naming Images](#naming-images)
+    - [Image Rights](#image-rights)
+    - [Adding Images to GitHub CodeSpaces](#adding-images-to-github-codespaces)
+  - [Starting from the Terminal](#starting-from-the-terminal)
 
 ## Running the Project
 
 1. Open the project in VS Code.
-2. Click on the "Run and Debug" button on the sidebar (it looks like a play button).
-3. Select "Open with Live Server" from the drop-down menu.
-4. Click the green play button. This will start a local server and open your project in a web browser.
-5. If this fails, you could try to [start from the terminal instead](#starting-from-the-terminal)
-   ![play-screenshot](screenshots/play-github.png)
+2. Bring the `Terminal` up from the bottom panel.
+3. Type `npm start` in the terminal and hit return.
 
 ## Viewing Your Project
 
 ![Screenshot of Ports view](./screenshots/ports-github.png)
 
-- You should see a pop up asking if you want to open the page after you hit "play" to run your project. If you click on it, it will open your webpage in a new tab.
+- You should see a pop up asking if you want to open the page after you run your project. If you click on it, it will open your webpage in a new tab.
 - You can click on "Ports" at the bottom of the screen to see the web connection on your computer.
 
   If you hover over the "Forwarded Address" column, you'll see a "side-by-side" icon that will show
