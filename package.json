@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "live-server ./"
+    "start" : "npx --yes live-server --no-browser --port=5500 ."
   },
   "keywords": [],
   "author": "",

@@ -30,7 +30,7 @@ In this document, you will find:
 ![Screenshot of Ports view](./screenshots/ports-github.png)
 
 - You should see a pop up asking if you want to open the page after you run your project. If you click on it, it will open your webpage in a new tab.
-- You can click on "Ports" at the bottom of the screen to see the web connection on your computer.
+- You can click on "Ports" (port `5500`) at the bottom of the screen to see the web connection on your computer.
 
   If you hover over the "Forwarded Address" column, you'll see a "side-by-side" icon that will show
   the webpage inside your coding editor, or a "Globe" icon that will show the icon inside your web
@@ -101,7 +101,7 @@ menu and selecting upload.
 
 If you put files in the wrong place, you can drag-and-drop to move them.
 
-Images you want to include in your project should be in the "public" folder. 
+Images you want to include in your project should be in the project root.
 I recommend organizing them inside of a separate "images" folder for easy
 file management.
 
@@ -112,5 +112,5 @@ As an alternative to using the "Play" button, you can also
 type a command to run your project locally.
 
 1. Open the terminal in VS Code (use the "Terminal" tab at the bottom)
-2. Type `npm start` and press Enter. This will start a local server and open your project in a web browser.
+2. Type `npm start` and press Enter. This starts a local web server for your page on port `5500`.
    ![Terminal Screenshot](./screenshots/terminal-github.png)
